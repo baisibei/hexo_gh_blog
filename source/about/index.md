@@ -1,7 +1,7 @@
 ---
 title: 关于我
 ---
-![](http://baisibei.github.io/img/guoguo-guzheng.jpg)
+![](http://image.tonybai.com/img/201612/guoguo-gavatar.jpg)
 
 我是Amy Bai，小名果果。
 
