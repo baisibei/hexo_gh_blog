@@ -4,13 +4,14 @@ date: "2017-01-15"
 description: ""
 categories:
     - "日记"
-    - "家庭"
 tags:
+    - "家庭"
     - "日记"
     - "家庭"
     - "拍照"
     - "写真"
     - "购物"
+    - "2017"
 ---
 
 ![拍照记](http://image.tonybai.com/img/201701/diary_20170115_1.jpg)

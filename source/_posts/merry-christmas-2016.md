@@ -3,7 +3,13 @@ title: "祝大家圣诞节快乐"
 date: "2016-12-24"
 description: ""
 categories:
-    - "画作"
+    - "美术"
+tags:
+    - "美术"
+    - "圣诞节"
+    - "砂纸画"
+    - "画画"
+    - "2016"
 ---
 
 ![我的砂纸画：圣诞树](http://image.tonybai.com/img/201612/draw_20161224.jpg)

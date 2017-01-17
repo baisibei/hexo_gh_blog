@@ -4,7 +4,13 @@ date: "2016-12-28"
 description: ""
 categories:
     - "日记"
-    - "校园生活"
+tags:
+    - "日记"
+    - "校园"
+    - "考试"
+    - "唐诗"
+    - "李白"
+    - "2016"
 ---
 
 ![期末测试中我制作的小诗卡](http://image.tonybai.com/img/201612/quiz_20161228.jpg)

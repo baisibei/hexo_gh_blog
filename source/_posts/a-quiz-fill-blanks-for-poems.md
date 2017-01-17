@@ -4,7 +4,12 @@ date: "2016-12-23"
 description: ""
 categories:
     - "日记"
-    - "校园生活"
+tags:
+    - "日记"
+    - "校园"
+    - "考试"
+    - "小学"
+    - "2016"
 ---
 
 ![今天的随堂测验，我又拿了100分](http://image.tonybai.com/img/201612/quiz_20161223.jpg)

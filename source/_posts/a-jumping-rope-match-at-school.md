@@ -4,7 +4,11 @@ date: "2016-12-20"
 description: ""
 categories:
     - "日记"
-    - "校园生活"
+tags:
+    - "日记"
+    - "校园"
+    - "跳绳"
+    - "2016"
 ---
 
 ![今天我拿到了跳绳比赛女生组第三名](http://image.tonybai.com/img/201612/diary_20161220.jpg)

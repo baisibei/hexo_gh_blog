@@ -4,6 +4,13 @@ date: "2017-01-01"
 description: ""
 categories:
     - "日记"
+tags:
+    - "日记"
+    - "节日"
+    - "旅游"
+    - "博物馆"
+    - "雾霾"
+    - "2017"
 ---
 
 ![2017元旦快乐（图片来自网络）](http://image.tonybai.com/img/201701/diary_20170101_3.jpg)

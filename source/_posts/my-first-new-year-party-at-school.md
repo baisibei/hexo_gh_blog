@@ -4,7 +4,12 @@ date: "2016-12-30"
 description: ""
 categories:
     - "日记"
-    - "校园生活"
+tags:
+    - "日记"
+    - "校园"
+    - "联欢会"
+    - "诗朗诵"
+    - "2016"
 ---
 
 ![](http://image.tonybai.com/img/201612/diary_20161230_3.jpg)
