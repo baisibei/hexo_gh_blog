@@ -25,3 +25,7 @@ tags:
 ![轮式机器人2](http://image.tonybai.com/img/201702/diary_20170211_3.jpg)
 
 机器人能否动起来，明天太阳出来后见分晓:)。
+
+2017-02-12添加机器人试验视频：
+
+<embed src="http://player.youku.com/player.php/sid/XMjUwODEwNDY5Ng==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
