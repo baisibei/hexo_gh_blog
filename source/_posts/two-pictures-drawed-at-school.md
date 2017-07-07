@@ -15,6 +15,6 @@ tags:
 
 ![海上的轮船](http://image.tonybai.com/img/201707/diary_20170707_1.jpg)
 
-![带风车的房子](http://image.tonybai.com/img/201707/diary_20170707_2.jpg)
+![带风车的小学教学楼](http://image.tonybai.com/img/201707/diary_20170707_2.jpg)
 
 爸爸觉得我还是画这类抽象画最拿手:)
