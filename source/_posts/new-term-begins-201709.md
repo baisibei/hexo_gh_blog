@@ -15,3 +15,5 @@ tags:
 ![返校日在新操场上列队等待进入新教室](http://image.tonybai.com/img/201709/diary_20170901_1.jpg)
 
 ![新学期第一课：暑假见闻，每人演讲两分钟)](http://image.tonybai.com/img/201709/diary_20170901_2.jpg)
+
+![新学期第一课：班级合影)](http://image.tonybai.com/img/201709/diary_20170901_3.jpg)
