@@ -40,7 +40,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 
 links:
   - title: 我的老爸
-    url: http://tonybai.com/
+    url: https://tonybai.com/
 
 timeline:
   - num: 1
