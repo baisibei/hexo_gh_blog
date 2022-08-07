@@ -1,5 +1,5 @@
 ---
-title: "东戴河与山海关暑期亲子游!"
+title: "东戴河与山海关暑期亲子游"
 date: "2022-08-07"
 description: ""
 categories:
