@@ -26,9 +26,9 @@ tags:
 
 晚上，一家人开始给我庆祝生日，蛋糕是Sam店买的抹茶口味的。下面是一些妈妈拍的生日照片：
 
-![十四周岁生日1](http://image.tonybai.com/img/202305/diary_20240503_01.jpg)
-![十四周岁生日2](http://image.tonybai.com/img/202305/diary_20240503_02.jpg)
-![十四周岁生日3](http://image.tonybai.com/img/202305/diary_20240503_03.jpg)
+![十四周岁生日1](http://image.tonybai.com/img/202405/diary_20240503_01.jpg)
+![十四周岁生日2](http://image.tonybai.com/img/202405/diary_20240503_02.jpg)
+![十四周岁生日3](http://image.tonybai.com/img/202405/diary_20240503_03.jpg)
 
 在老爸老妈的生日快乐歌中，我许了愿，吹灭了生日蜡烛，开始和妹妹一起品尝生日蛋糕:)。
 
